@@ -8,5 +8,7 @@ let restEl=a.slice(arrLength).reverse()
 console.log([...newArr,...restEl])
 
 
-//
+
+
+
 
